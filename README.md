@@ -16,7 +16,7 @@ All notes live in `/docs` and are versioned in GitHub.
 
 All practice projects live under `/projects`:
 
-- `projects/01-fundamentals`
+- `projects/01-fundamentals/fundamentals` — Angular CLI starter (routing + scss)
 - `projects/02-forms-crud`
 - `projects/03-http-rxjs`
 - `projects/04-routing-auth`
