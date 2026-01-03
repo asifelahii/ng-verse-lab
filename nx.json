@@ -90,6 +90,12 @@
       "options": {
         "testTargetName": "vite:test"
       }
+    },
+    {
+      "plugin": "@nx/jest/plugin",
+      "options": {
+        "targetName": "test"
+      }
     }
   ],
   "generators": {
