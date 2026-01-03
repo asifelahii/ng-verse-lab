@@ -16,5 +16,9 @@ Thumbs.db
 !.vscode/extensions.json
 !.vscode/settings.json
 
+# Nx
 .nx/
 tmp/
+
+# Obsidian
+docs/.obsidian/
